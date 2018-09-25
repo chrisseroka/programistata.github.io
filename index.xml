@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projekt Garaż</title>
+      <link>/post/projekt-gara%C5%BC/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/projekt-gara%C5%BC/</guid>
+      <description>Introduction Jestem programistą i to nie ze względu na to, że lubię się naświetlać ekranem komputera od najmłodszych lat. Tzn, to też. Ale myślę, że najbardziej chodzi o to, że lubię tworzyć. Na początku bardzo mi dokuczało to świat zewnętrzny (czyt. rodzina) zabiera mi czas na realizowanie swoich programistycznych projektów, ale po jakimś czasie zdałem sobie sprawę, że równie fajnie mogę się wyżyć robiąc projekty nieprogramistyczne. A jeszcze lepiej razem z moimi chłopakami.</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -44,10 +53,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     <item>
       <title>About me</title>
       <link>/about/</link>
-      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      <pubDate>Mon, 24 Sep 2018 22:17:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+      <description>Cześć wszystkim. Nazywam się Krzysiu. Robię internety, kiedyś bardzo dużo, teraz głównie w pracy, bo… Mam wspaniałą żonę i dwójkę równie wspaniałych synów: Tymek (ur. 2013) i Szymek (u. 2015). Trochę ze mnie family man więc spędzam z nimi dość dużo czasu. Programistą jestem bo przyjemność sprawia mi tworzenie. Dzięki chłopakom zrozumiałem, że to nie musi być tworzenie aplikacji, a projekty można zrobić z wszystkiego, mogą to być przecież równie dobrze domy i maszyn z LEGO, domki z poduszek, szałasy w lesie i wszystko co sprawa taką samą przyjemność małym i dużym chłopakom :-)</description>
     </item>
     
     <item>

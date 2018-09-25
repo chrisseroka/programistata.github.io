@@ -6,10 +6,19 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projekt Garaż</title>
+      <link>/post/projekt-gara%C5%BC/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/projekt-gara%C5%BC/</guid>
+      <description>Introduction Jestem programistą i to nie ze względu na to, że lubię się naświetlać ekranem komputera od najmłodszych lat. Tzn, to też. Ale myślę, że najbardziej chodzi o to, że lubię tworzyć. Na początku bardzo mi dokuczało to świat zewnętrzny (czyt. rodzina) zabiera mi czas na realizowanie swoich programistycznych projektów, ale po jakimś czasie zdałem sobie sprawę, że równie fajnie mogę się wyżyć robiąc projekty nieprogramistyczne. A jeszcze lepiej razem z moimi chłopakami.</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
